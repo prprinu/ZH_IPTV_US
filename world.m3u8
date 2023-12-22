@@ -1,0 +1,137 @@
+#EXTM3U
+#EXTINF:-1 ,Unknown_1
+http://38.96.178.201:80/live/DisneyXD/index.m3u8
+#EXTINF:-1 ,Unknown_4
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/dove-channel/0ff5b3b6-cfe1-40bc-a4ae-51ee522e56d8/1.m3u8
+#EXTINF:-1 ,Unknown_5
+https://airvuz-dronetv-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_10
+http://213.254.12.7:80/DWEnglish/mono.m3u8
+#EXTINF:-1 ,Unknown_11
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV08.m3u8
+#EXTINF:-1 ,Unknown_19
+https://5def33c73f084e11a19ca77697d6b413.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AMCPresents/playlist.m3u8
+#EXTINF:-1 ,Unknown_20
+https://436f59579436473e8168284cac5d725f.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RushByAMC/playlist.m3u8
+#EXTINF:-1 ,Unknown_22
+http://38.96.178.201/live/ABCHD/index.m3u8
+#EXTINF:-1 ,Unknown_23
+https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
+#EXTINF:-1 ,Unknown_24
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV24.m3u8
+#EXTINF:-1 ,Unknown_25
+http://23.237.100.82:8000/ABC_WEST/manifest.m3u8
+#EXTINF:-1 ,Unknown_26
+http://198.16.100.90:8278/bbc1_antik/playlist.m3u8?tid=MF5F6677034466770344&ct=19225&tsum=7620e8a88546352c525938a2dee63a56
+#EXTINF:-1 ,Unknown_29
+http://38.96.178.201:80/live/BBCAmerica/index.m3u8
+#EXTINF:-1 ,Unknown_34
+http://213.254.12.7/BBCWorldNews/mono.m3u8
+#EXTINF:-1 ,Unknown_36
+http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/Stream(02)/index.m3u8
+#EXTINF:-1 ,Unknown_39
+http://23.237.100.82:8000/BRAZZERS/index.m3u8
+#EXTINF:-1 ,Unknown_40
+https://d2anxt9uu5yxtz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ja4uwkkhcliwv/v1/chili_fifa_eng_1/samsungheadend_us/latest/main/hls/playlist.m3u8
+#EXTINF:-1 ,Unknown_41
+http://41.205.93.154/CNBC/index.m3u8
+#EXTINF:-1 ,Unknown_42
+http://23.237.98.42:8080/USA_CNBC/index.m3u8
+#EXTINF:-1 ,Unknown_44
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/pikotv.m3u8
+#EXTINF:-1 ,Unknown_45
+http://38.96.178.201:80/live/CNNHD/index.m3u8
+#EXTINF:-1 ,Unknown_48
+http://213.254.12.7/cnn/mono.m3u8
+#EXTINF:-1 ,Unknown_49
+http://213.254.12.7/cnn/index.m3u8
+#EXTINF:-1 ,Unknown_51
+http://89.254.128.5:22280/cnn/video.m3u8
+#EXTINF:-1 ,Unknown_58
+https://raw.githubusercontent.com/Alstruit/adaptive-streams/alstruit-10_23_us/streams/us/CNNUSA.us.m3u8
+#EXTINF:-1 ,Unknown_59
+http://198.16.100.90:8278/cnn_twn/playlist.m3u8?tid=ME9E1590756115907561&ct=19225&tsum=adf5db9504938a69e07bad07c9d6f7d6
+#EXTINF:-1 ,Unknown_64
+https://dwamdstream109.akamaized.net/hls/live/2017970/dwstream109/index.m3u8
+#EXTINF:-1 ,Unknown_65
+http://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
+#EXTINF:-1 ,Unknown_66
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/encore/master.m3u8
+#EXTINF:-1 ,Unknown_67
+https://edgesport-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_68
+https://edgesports-plex.amagi.tv/playlistR1080p.m3u8
+#EXTINF:-1 ,Unknown_70
+https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
+#EXTINF:-1 ,Unknown_71
+https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV37.m3u8
+#EXTINF:-1 ,Unknown_73
+https://shls-live-ak.akamaized.net/out/v1/115bfcde8fa342d182ef846445cdbdcf/index.m3u8
+#EXTINF:-1 ,Unknown_74
+https://shls-live-ak.akamaized.net/out/v1/302a3ad418214d3f94460738a805b930/index.m3u8
+#EXTINF:-1 ,Unknown_75
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews/ewnsabren_eng.m3u8
+#EXTINF:-1 ,Unknown_77
+http://54.39.17.6/eurosport/mono.m3u8
+#EXTINF:-1 ,Unknown_82
+http://38.96.178.201:80/live/FOXHD/index.m3u8
+#EXTINF:-1 ,Unknown_86
+http://50.7.137.106:8080/FOX/index.m3u8?token=test
+#EXTINF:-1 ,Unknown_89
+http://38.96.178.201:80/live/FOXNEWS/index.m3u8
+#EXTINF:-1 ,Unknown_91
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist720p.m3u8
+#EXTINF:-1 ,Unknown_92
+https://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_94
+http://38.96.178.201:80/live/FOXSPORTS2/index.m3u8
+#EXTINF:-1 ,Unknown_100
+http://198.16.100.90:8278/hbohd_twn/playlist.m3u8?tid=ME9E5260921952609219&ct=19225&tsum=a904cd480db106670befb11d14149fce
+#EXTINF:-1 ,Unknown_103
+http://41.205.93.154/HBO/index.m3u8
+#EXTINF:-1 ,Unknown_108
+http://94.156.33.91/Cinemax/mono.m3u8
+#EXTINF:-1 ,Unknown_109
+http://170.254.18.106:80/HBO_FAMILY/index.m3u8
+#EXTINF:-1 ,Unknown_110
+http://170.254.18.106:80/HBO_MUNDI/mono.m3u8
+#EXTINF:-1 ,Unknown_112
+http://213.254.12.7/HGTV/index.m3u8
+#EXTINF:-1 ,Unknown_114
+http://41.205.93.154/HISTORY/index.m3u8
+#EXTINF:-1 ,Unknown_115
+http://38.96.178.201:80/live/History/index.m3u8
+#EXTINF:-1 ,Unknown_119
+https://timeline-samsung-uk.amagi.tv/playlist.m3u8
+#EXTINF:-1 ,Unknown_130
+https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/6058004203001/playlist.m3u8
+#EXTINF:-1 ,Unknown_144
+https://tfd-distro.amagi.tv/index.m3u8
+#EXTINF:-1 ,Unknown_145
+https://0d0239e437124ddcb8090d815caf4013.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_TheGuardianChannel/playlist.m3u8
+#EXTINF:-1 ,Unknown_149
+http://live-hls-web-aje.getaj.net/AJE/01.m3u8
+#EXTINF:-1 ,Unknown_151
+http://198.16.100.90:8278/skynews_antik/playlist.m3u8?tid=MA0A3161061431610614&ct=19249&tsum=15f8cca00a8cc3a6d2a61519b7dfeb59
+#EXTINF:-1 ,Unknown_152
+https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
+#EXTINF:-1 ,Unknown_153
+https://donelfantastic.github.io/live/skysportsNz8.m3u8
+#EXTINF:-1 ,Unknown_154
+https://donelfantastic.github.io/live/skysportsNz1.m3u8
+#EXTINF:-1 ,Unknown_155
+https://donelfantastic.github.io/live/skysportsNz2.m3u8
+#EXTINF:-1 ,Unknown_156
+https://donelfantastic.github.io/live/skysportsNz3.m3u8
+#EXTINF:-1 ,Unknown_157
+https://donelfantastic.github.io/live/skysportsNz4.m3u8
+#EXTINF:-1 ,Unknown_158
+https://donelfantastic.github.io/live/skysportsNz5.m3u8
+#EXTINF:-1 ,Unknown_159
+https://donelfantastic.github.io/live/skysportsNz6.m3u8
+#EXTINF:-1 ,Unknown_160
+https://donelfantastic.github.io/live/skysportsNz7.m3u8
+#EXTINF:-1 ,Unknown_161
+https://donelfantastic.github.io/live/skysportsNz9.m3u8
+#EXTINF:-1 ,Unknown_162
+http://198.16.100.90:8278/tiankongcricket/playlist.m3u8?tid=MF0F2840305428403054&ct=19225&tsum=b212d3a5e0f928f816ba4653a3b31f6d

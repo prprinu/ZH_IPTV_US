@@ -1,0 +1,5 @@
+#EXTM3U
+#EXTINF:-1 ,National Geographic
+http://45.159.74.13:80/NationalGeographic/index.m3u8
+#EXTINF:-1 ,National Geographic Wild
+http://50.7.137.106:8080/NAT_GEO_WILD/index.m3u8?token=test

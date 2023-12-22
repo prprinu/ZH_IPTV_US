@@ -1,0 +1,9 @@
+#EXTM3U
+#EXTINF:-1 ,Discovery Asia 中字
+http://198.16.100.90:8278/discoverytwn_twn/playlist.m3u8?tid=MB1B4014431840144318&ct=19254&tsum=a72e8caa6986ef92c4d6cb743e22a78f
+#EXTINF:-1 ,Discovery Channel
+http://38.96.178.201:80/live/Discovery/index.m3u8
+#EXTINF:-1 ,Discovery HD
+http://88.212.7.11/live/test_discovery_hd_hevc/playlist.m3u8
+#EXTINF:-1 ,Discovery Channel [可选英语、俄语]
+http://45.159.74.14:80/DiscoveryChannel/index.m3u8
