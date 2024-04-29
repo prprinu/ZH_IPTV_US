@@ -1,13 +1,19 @@
 #EXTM3U
-#EXTINF:-1 ,翡翠
-https://edge6a.v2h-cdn.com/jade/jade.stream/chunklist.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://210.210.155.37/uq2663/h/h157/index2.m3u8
-#EXTINF:-1 ,凤凰资讯
-http://198.16.100.90:8278/phoenixinfo_hd/playlist.m3u8?tid=m7f4a830029be&ct=18336&tsum=74f57bddc0725f74838380086dce3e44
-#EXTINF:-1 ,中天新闻
-http://tv.redrainl.site:9500/live.m3u8?c=3
-#EXTINF:-1 ,TVBS
-http://38.64.72.148:80/hls/modn/list/4005/chunklist0.m3u8
-#EXTINF:-1 ,TVBS新闻台
-http://38.64.72.148/hls/modn/list/4006/playlist.m3u8
+
+#EXTINF:-1 tvg-name="鳳凰衛視" tvg-id="11050" tvg-country="Hong Kong" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/23/large/20230723140246184179_52.png" group-title="Generic",[BD]凤凰卫视@@6
+https://epg.pw/stream/d6fe4c36d8b6dc5508574970a5b579b78b916dd3b92b5d45fb25d4eb92f48942.m3u8
+
+#EXTINF:-1 tvg-name="鳳凰香港" tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png" group-title="Generic",[BD]凤凰香港
+https://epg.pw/stream/8352ad260441ed0064f63f7a25eb3a7268a68b391f08a345b9bdbefd51aa330f.m3u8
+
+#EXTINF:-1 tvg-name="TVBS HD" tvg-id="" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2023/07/20/large/20230720162650498510_75.png" group-title="Generic",[HD]tvbs hd
+https://epg.pw/stream/9705160141091f1e660fad65bfa98848f3387857a2f1e00a7e59bc85450a82d1.m3u8
+
+#EXTINF:-1 tvg-name="TVB新聞臺" tvg-id="" tvg-country="Hong Kong" tvg-language="Cantonese" tvg-logo="https://epg.pw/media/images/channel/2024/03/12/large/20240312220208325041_97.png" group-title="News",[BD]tvbs新闻
+https://epg.pw/stream/45b72acdc2cd146b4f103a6728efe468f65c59b65c48f13b61b36fb150ea79af.m3u8
+
+#EXTINF:-1 tvg-name="TVBS精采臺" tvg-id="" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2021/01/11/large/20210111214029367376_50.png" group-title="Entertainment",[HD]tvbs精采
+https://epg.pw/stream/6fbdab20eab852bdd687d555493c325c308e0d1810227661f2b1bc0c318149aa.m3u8
+
+#EXTINF:-1 tvg-name="TVBS Asia" tvg-id="3509" tvg-country="Taiwan" tvg-language="Chinese" tvg-logo="https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg" group-title="Generic",[BD]tvbs aisa
+https://epg.pw/stream/1d3fd64401a15fe4c03686bd236262e655ddfa84c99879ae5273532ffd2ae4af.m3u8
